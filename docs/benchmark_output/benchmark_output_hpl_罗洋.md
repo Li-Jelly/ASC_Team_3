@@ -4,6 +4,8 @@ mpirun -np 1 ./xhpl （单进程）
 
 ## 输出结果
 
+
+```text    
 ================================================================================   
 HPLinpack 2.3  --  High-Performance Linpack benchmark  --   December 2, 2018
 Written by A. Petitet and R. Clint Whaley,  Innovative Computing Laboratory, UTK
@@ -237,3 +239,4 @@ Finished     18 tests with the following results:
 
 End of Tests.
 ================================================================================
+```
